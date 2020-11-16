@@ -1,0 +1,10 @@
+.form-label-group {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.form-label-group input {
+  height: 2.7rem;
+  border-radius: 2rem;
+  margin-bottom: 1.5rem;
+}

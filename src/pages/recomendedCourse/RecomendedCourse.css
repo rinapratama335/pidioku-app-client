@@ -1,0 +1,43 @@
+.recomended-container {
+  margin-top: 1.5rem;
+}
+
+.recomended-img {
+  height: 7rem;
+  width: 7rem;
+  padding: 0.7rem 0 0.7rem 0.7rem;
+  border-radius: 1rem 0rem 0rem 1rem;
+}
+
+.recomended-data {
+  display: flex;
+  flex-direction: row;
+}
+
+.recomended-desc {
+  margin-top: 0.5rem;
+  margin-left: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.author {
+  color: tomato;
+  font-weight: bold;
+  margin-top: -0.6rem;
+}
+
+.length-course {
+  font-size: 0.9rem;
+  font-weight: lighter;
+}
+
+.rating {
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
+  margin-left: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

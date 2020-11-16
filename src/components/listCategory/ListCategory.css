@@ -1,0 +1,25 @@
+.list-title {
+  margin-top: 1.5rem;
+}
+
+.card {
+  border: 0;
+  margin-top: 0.8rem;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.card-container {
+  justify-content: center;
+  align-self: center;
+}
+
+.cat-img {
+  max-height: 8rem;
+  max-width: auto;
+  border-radius: 1rem;
+}
+
+.title {
+  margin-top: 1rem;
+}
