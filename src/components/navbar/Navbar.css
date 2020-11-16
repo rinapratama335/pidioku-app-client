@@ -1,0 +1,44 @@
+.navbar {
+  background-color: #f1f4fc !important;
+}
+
+.nav-item {
+  /* width: 4rem; */
+  margin-right: 1rem;
+}
+
+.navbrand {
+  max-height: 40px;
+  width: auto;
+}
+
+.avatar {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 100%;
+}
+
+.account {
+  float: right;
+  margin-right: 3.5rem;
+}
+
+.dropdown-account {
+  background: transparent;
+  border: none;
+}
+
+.avatar-link {
+  background-color: yellowgreen;
+  max-width: 50px !important;
+  padding: 0 2rem;
+  text-decoration: none;
+  color: #000;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.avatar-link:hover {
+  color: #000;
+  text-decoration: none;
+}
